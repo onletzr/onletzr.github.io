@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onletzr.github.io/sitemap.html.gz
+Sitemap: https://onletzr.github.io/app/sitemap.html.gz
+Sitemap: https://onletzr.github.io/assets/sitemap.html.gz
+Sitemap: https://onletzr.github.io/css/sitemap.html.gz
+Sitemap: https://onletzr.github.io/data/sitemap.html.gz
+Sitemap: https://onletzr.github.io/includes/sitemap.html.gz
+Sitemap: https://onletzr.github.io/item/sitemap.html.gz
+Sitemap: https://onletzr.github.io/src/sitemap.html.gz
